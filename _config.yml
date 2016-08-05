@@ -1,0 +1,28 @@
+name: Gallivanting Ro
+favicon: null
+layout_spectrum: 0.3383443763013929
+typography_spectrum: 0.3292435600887984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.27029767516069114
+  lightness: 0.4948172946460545
+  saturation: 0.5349366327282041
+  rhythmicContrast: 0.8765775277279317
+purpose: []
